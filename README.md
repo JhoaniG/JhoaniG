@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Jhoani 👋</h1>
 
-<!-- Divisor horizontal con degradado -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Analyst+%26+Developer;Business+Automation+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
@@ -51,29 +54,17 @@ I consider myself a continuous learner in the ever-evolving tech landscape. Driv
 
 ---
 
-### 📈 GitHub Data & Analytics
+### 🚀 GitHub Analytics & Top Languages
 
-<div align="center">
-  <a href="https://github.com/JhoaniG">
-    <img src="https://github-profile-trophy.vercel.app/?username=JhoaniG&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="JhoaniG Trophies" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhoaniG&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Jhoani's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoaniG&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JhoaniG/JhoaniG/output/github-contribution-grid-snake.svg" alt="Github Snake" width="100%" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhoaniG&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Jhoani's GitHub Stats" height="192" style="margin-right: 10px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="192"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhoaniG&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contributions%20Graph" alt="Activity Graph" width="100%" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Quote" />
+</p>
