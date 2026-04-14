@@ -10,7 +10,9 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVnYzlzdnRmenhlOWo1dHc2eWQ3ZzBjZWtlZHRnZDBndWEwaDdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" style="border: none;" alt="Developer GIF">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVnYzlzdnRmenhlOWo1dHc2eWQ3ZzBjZWtlZHRnZDBndWEwaDdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="320" style="margin-left: 20px; margin-bottom: 10px;" alt="Developer GIF">
+
+<div align="justify">
 
 **Software Analyst & Developer | Business Automation Enthusiast | Lifelong Learner**
 
@@ -20,51 +22,55 @@ Beyond traditional coding, I have a keen interest in enterprise architecture and
 
 I consider myself a continuous learner in the ever-evolving tech landscape. Driven by curiosity and fueled by challenges, I am always looking forward to the next opportunity to grow, innovate, and contribute to the tech community.
 
+</div>
+
 <br clear="both">
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Arsenal & Ecosystems
 
-#### Backend & Frameworks
+<div align="center">
+
+**Backend & Frameworks**<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<br>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-#### Databases
+<br>
+
+**Databases**<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Enterprise Solutions & Automation
+<br>
+
+**Enterprise Solutions & Automation**<br>
 ![Power Apps](https://img.shields.io/badge/Power_Apps-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SharePoint](https://img.shields.io/badge/SharePoint-036C70?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
-#### IDEs, Tools & Agile
+<br>
+
+**IDEs, Tools & Agile**<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+</div>
+
 ---
 
-### 🚀 GitHub Analytics & Top Languages
+### 📊 GitHub Dashboard & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhoaniG&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Jhoani's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoaniG&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Quote" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhoaniG&theme=dracula" alt="Jhoani's GitHub Stats" width="80%" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=JhoaniG&theme=dracula&background=0D1117" alt="GitHub Streak" width="80%" />
+</div>
