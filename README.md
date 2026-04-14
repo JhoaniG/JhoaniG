@@ -8,9 +8,9 @@
 
 <br>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me <img src="https://img.shields.io/badge/fsociety-%23E31837.svg?style=flat-square&logo=mrrobot&logoColor=white" alt="Mr Robot Icon" height="22">
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVnYzlzdnRmenhlOWo1dHc2eWQ3ZzBjZWtlZHRnZDBndWEwaDdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="320" style="margin-left: 20px; margin-bottom: 10px;" alt="Developer GIF">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVnYzlzdnRmenhlOWo1dHc2eWQ3ZzBjZWtlZHRnZDBndWEwaDdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" style="margin-left: 20px; margin-bottom: 15px; border-radius: 8px;" alt="Developer GIF">
 
 <div align="justify">
 
