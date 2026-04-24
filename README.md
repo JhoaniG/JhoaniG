@@ -70,7 +70,19 @@ I consider myself a continuous learner in the ever-evolving tech landscape. Driv
 ### 📊 GitHub Dashboard & Contributions
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhoaniG&theme=dracula" alt="Jhoani's GitHub Stats" width="80%" />
+
+  <!-- Stats generales -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhoaniG&theme=tokyonight" width="90%" />
+
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=JhoaniG&theme=dracula&background=0D1117" alt="GitHub Streak" width="80%" />
+
+  <!-- Streak + Stats -->
+  <img src="https://streak-stats.demolab.com?user=JhoaniG&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhoaniG&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+  <br><br>
+
+  <!-- Lenguajes -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" width="60%" />
+
 </div>
