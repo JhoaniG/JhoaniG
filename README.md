@@ -79,13 +79,13 @@ I consider myself a continuous learner in the ever-evolving tech landscape. Driv
   <!-- Streak + Stats -->
   <img src="https://streak-stats.demolab.com?user=JhoaniG&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=JhoaniG&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
+  
+<img src="https://github-readme-stats.vercel.app/api?username=JhoaniG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <br><br>
 
   <!-- Lenguajes -->
- <img 
-  src="https://github-readme-stats-git-master-jhoanig.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 </div>
