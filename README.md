@@ -83,6 +83,9 @@ I consider myself a continuous learner in the ever-evolving tech landscape. Driv
   <br><br>
 
   <!-- Lenguajes -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" width="60%" />
+ <img 
+  src="https://github-readme-stats-git-master-jhoanig.vercel.app/api/top-langs/?username=JhoaniG&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
 </div>
